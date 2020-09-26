@@ -30,8 +30,8 @@
 - ## Structures:
   - ###### [Linked list](https://github.com/No1n/some-programming/blob/master/python/structures/linked%20list.ipynb)
   - ###### [Stack](https://github.com/No1n/some-programming/blob/master/python/structures/stack.ipynb)
-  - ###### [Queue](https://github.com/No1n/some-programming/blob/master/python/maze%20exploration/maze%20exploration.py)
-  - ###### [Graph](https://github.com/No1n/some-programming/blob/master/python/maze%20exploration/maze%20exploration.py)
+  - ###### [Queue](https://github.com/No1n/some-programming/blob/master/python/maze%20exploration/maze%20exploration.py) (among other code)
+  - ###### [Graph](https://github.com/No1n/some-programming/blob/master/python/maze%20exploration/maze%20exploration.py) (among other code)
   
 - ## Search:
   - ###### [Binary search](https://github.com/No1n/some-programming/blob/master/python/search/binary%20search.ipynb)
@@ -63,13 +63,13 @@
   
 # C#:
 - ## Algorithms:
-   - ###### [Dijkstra’s algorithm](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs)
-   - ###### [Simulated annealing](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs)
-   - ###### [Knight's tour](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs)
-   - ###### [Brute force all paths on the graph (between two points)](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs)
+   - ###### [Dijkstra’s algorithm](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs) (among other code)
+   - ###### [Simulated annealing](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs) (among other code)
+   - ###### [Knight's tour](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs) (among other code)
+   - ###### [Brute force all paths on the graph (between two points)](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs) (among other code)
 
 - ## Structures:
-   - ###### [Graph](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs)
+   - ###### [Graph](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs) (among other code)
 
 - ## Other:
   - ###### [Brown-Robinson iterative method](https://github.com/No1n/some-programming/blob/master/C%23/Game%20theory/Brown-Robinson%20iterative%20method%20FORM.cs)
