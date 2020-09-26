@@ -1,6 +1,6 @@
 # Python:
 - ## Machine learning:
-  - ###### [K-fold Cross-Validation](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/unet%20two%20bricks%20segmentation/unet%20two%20bricks%20segmentation.ipynb)
+  - ###### [K-fold Cross-Validation](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/unet%20two%20bricks%20segmentation/unet%20two%20bricks%20segmentation.ipynb) (among other code)
   - ###### [K-means image clustering](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/kmeans%20image%20clustering/kmeans%20image%20clustering%20so%20bad.ipynb) (so bad)
   - ###### [U-Net two bricks segmentation](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/unet%20two%20bricks%20segmentation/unet%20two%20bricks%20segmentation.ipynb)
     Test set prediction (accuracy ~65%)
