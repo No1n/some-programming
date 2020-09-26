@@ -1,4 +1,23 @@
 # Python:
+- ## Machine learning:
+  - ###### [K-fold Cross-Validation](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/unet%20two%20bricks%20segmentation/unet%20two%20bricks%20segmentation.ipynb) (among other code)
+  - ###### [K-means image clustering](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/kmeans%20image%20clustering/kmeans%20image%20clustering%20so%20bad.ipynb) (so bad)
+  - ###### [U-Net two bricks segmentation](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/unet%20two%20bricks%20segmentation/unet%20two%20bricks%20segmentation.ipynb) (so bad)
+    Test set prediction (accuracy ~65%)
+  
+    ![Alt Text](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/unet%20two%20bricks%20segmentation/test%20predict.jpg)
+
+- ## Other:
+  - ###### [Brown-Robinson iterative method](https://github.com/No1n/some-programming/blob/master/C%23/Game%20theory/Brown-Robinson%20iterative%20method.ipynb)
+  - ###### [Matrix generator with saddle point](https://github.com/No1n/some-programming/blob/master/C%23/Game%20theory/Matrix%20generator%20with%20saddle%20point.ipynb)
+  - ###### [Check braces correct](https://github.com/No1n/some-programming/blob/master/python/structures/stack.ipynb) (among other code)
+  - ###### [Sieve of Eratosthenes](https://github.com/No1n/some-programming/blob/master/python/other/eratosthenes%20sieve.ipynb)
+  - ###### [Very simple parser](https://github.com/No1n/some-programming/blob/master/python/english2russian%20plus%20pronunciation%20parser/english2russian%20plus%20pronunciation%20parser.ipynb)
+  - ###### [Exploration of the maze by a group of robots](https://github.com/No1n/some-programming/blob/master/python/maze%20exploration/maze%20exploration.py) (Not optimized at all)
+  
+    Animation:  
+    ![Alt Text](https://github.com/No1n/some-programming/blob/master/python/maze%20exploration/animation/animation.gif)
+  
 - ## Sorting:
   - ###### [Check sorted](https://github.com/No1n/some-programming/blob/master/python/sorting/check%20sorted.ipynb)
   - ###### [Bubble sort](https://github.com/No1n/some-programming/blob/master/python/sorting/bubble%20sort.ipynb)
@@ -11,8 +30,8 @@
 - ## Structures:
   - ###### [Linked list](https://github.com/No1n/some-programming/blob/master/python/structures/linked%20list.ipynb)
   - ###### [Stack](https://github.com/No1n/some-programming/blob/master/python/structures/stack.ipynb)
-  - ###### [Queue](https://github.com/No1n/some-programming/blob/master/python/maze%20exploration/maze%20exploration.py)
-  - ###### [Graph](https://github.com/No1n/some-programming/blob/master/python/maze%20exploration/maze%20exploration.py)
+  - ###### [Queue](https://github.com/No1n/some-programming/blob/master/python/maze%20exploration/maze%20exploration.py) (among other code)
+  - ###### [Graph](https://github.com/No1n/some-programming/blob/master/python/maze%20exploration/maze%20exploration.py) (among other code)
   
 - ## Search:
   - ###### [Binary search](https://github.com/No1n/some-programming/blob/master/python/search/binary%20search.ipynb)
@@ -42,26 +61,15 @@
   - ###### [Knapsack problem](https://github.com/No1n/some-programming/blob/master/python/dynamic%20programming/knapsack%20problem.ipynb)
   - ###### [Levenshtein distance](https://github.com/No1n/some-programming/blob/master/python/dynamic%20programming/levenshtein%20distance.ipynb)
   
-- ## Other:
-  - ###### [Brown-Robinson iterative method](https://github.com/No1n/some-programming/blob/master/C%23/Game%20theory/Brown-Robinson%20iterative%20method.ipynb)
-  - ###### [Matrix generator with saddle point](https://github.com/No1n/some-programming/blob/master/C%23/Game%20theory/Matrix%20generator%20with%20saddle%20point.ipynb)
-  - ###### [Check braces correct](https://github.com/No1n/some-programming/blob/master/python/structures/stack.ipynb)
-  - ###### [Sieve of Eratosthenes](https://github.com/No1n/some-programming/blob/master/python/other/eratosthenes%20sieve.ipynb)
-  - ###### [Very simple parser](https://github.com/No1n/some-programming/blob/master/python/english2russian%20plus%20pronunciation%20parser/english2russian%20plus%20pronunciation%20parser.ipynb)
-  - ###### [Exploration of the maze by a group of robots](https://github.com/No1n/some-programming/blob/master/python/maze%20exploration/maze%20exploration.py) (Not optimized at all)
-  
-    Animation:  
-    ![Alt Text](https://github.com/No1n/some-programming/blob/master/python/maze%20exploration/animation/animation.gif)
-  
 # C#:
 - ## Algorithms:
-   - ###### [Dijkstra’s algorithm](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs)
-   - ###### [Simulated annealing](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs)
-   - ###### [Knight's tour](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs)
-   - ###### [Brute force all paths on the graph (between two points)](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs)
+   - ###### [Dijkstra’s algorithm](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs) (among other code)
+   - ###### [Simulated annealing](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs) (among other code)
+   - ###### [Knight's tour](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs) (among other code)
+   - ###### [Brute force all paths on the graph (between two points)](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs) (among other code)
 
 - ## Structures:
-   - ###### [Graph](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs)
+   - ###### [Graph](https://github.com/No1n/some-programming/blob/master/C%23/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force/Dijkstra%2C%20simulated%20annealing%2C%20knight's%20tour%2C%20graph%20brute%20force.cs) (among other code)
 
 - ## Other:
   - ###### [Brown-Robinson iterative method](https://github.com/No1n/some-programming/blob/master/C%23/Game%20theory/Brown-Robinson%20iterative%20method%20FORM.cs)
