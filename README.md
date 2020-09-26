@@ -2,7 +2,7 @@
 - ## Machine learning:
   - ###### [K-fold Cross-Validation](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/unet%20two%20bricks%20segmentation/unet%20two%20bricks%20segmentation.ipynb) (among other code)
   - ###### [K-means image clustering](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/kmeans%20image%20clustering/kmeans%20image%20clustering%20so%20bad.ipynb) (so bad)
-  - ###### [U-Net two bricks segmentation](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/unet%20two%20bricks%20segmentation/unet%20two%20bricks%20segmentation.ipynb)
+  - ###### [U-Net two bricks segmentation](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/unet%20two%20bricks%20segmentation/unet%20two%20bricks%20segmentation.ipynb) (so bad)
     Test set prediction (accuracy ~65%)
   
     ![Alt Text](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/unet%20two%20bricks%20segmentation/test%20predict.jpg)
@@ -10,7 +10,7 @@
 - ## Other:
   - ###### [Brown-Robinson iterative method](https://github.com/No1n/some-programming/blob/master/C%23/Game%20theory/Brown-Robinson%20iterative%20method.ipynb)
   - ###### [Matrix generator with saddle point](https://github.com/No1n/some-programming/blob/master/C%23/Game%20theory/Matrix%20generator%20with%20saddle%20point.ipynb)
-  - ###### [Check braces correct](https://github.com/No1n/some-programming/blob/master/python/structures/stack.ipynb)
+  - ###### [Check braces correct](https://github.com/No1n/some-programming/blob/master/python/structures/stack.ipynb) (among other code)
   - ###### [Sieve of Eratosthenes](https://github.com/No1n/some-programming/blob/master/python/other/eratosthenes%20sieve.ipynb)
   - ###### [Very simple parser](https://github.com/No1n/some-programming/blob/master/python/english2russian%20plus%20pronunciation%20parser/english2russian%20plus%20pronunciation%20parser.ipynb)
   - ###### [Exploration of the maze by a group of robots](https://github.com/No1n/some-programming/blob/master/python/maze%20exploration/maze%20exploration.py) (Not optimized at all)
