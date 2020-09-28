@@ -8,6 +8,10 @@
     Test set prediction (accuracy ~65%)
   
     ![Alt Text](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/unet%20two%20bricks%20segmentation/test%20predict.jpg)
+    
+  - ###### [Analytical linear regression. (Excel)](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/Excel/Analytical%20linear%20regression.xlsx) (so simple task)
+  - ###### [Linear regression. (Excel data analysis package)](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/Excel/Excel%20data%20analysis%20package%20linear%20regression.xlsx) (so simple task)
+  - ###### [Autoregression. (Excel data analysis package)](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/Excel/Excel%20data%20analysis%20package%20autoregression.xlsx) (so simple task)
 
 - ## Other:
   - ###### [Brown-Robinson iterative method](https://github.com/No1n/some-programming/blob/master/C%23/Game%20theory/Brown-Robinson%20iterative%20method.ipynb)
