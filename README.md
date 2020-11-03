@@ -1,8 +1,11 @@
 # Python:
 - ## Machine learning:
   - ###### [K-fold Cross-Validation](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/unet%20two%20bricks%20segmentation/unet%20two%20bricks%20segmentation.ipynb) (among other code)
+  - ###### [:) MNIST Fashion CNN accuracy 91%](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/MNIST%20Fashion/MNIST%20Fashion%20CNN%20acc%2091.ipynb) (not optimized)
+  - ###### [:) MNIST Fashion FNN accuracy 87%](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/MNIST%20Fashion/MNIST%20Fashion%20FNN%20acc%2087.ipynb) (not optimized)
   - ###### [:) MNIST Perceptron accuracy 98,24%](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/MNIST/MNIST%20perceptron%20acc%2098%2024.ipynb) (not optimized)
   - ###### [:) MNIST CNN accuracy 99,2%](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/MNIST/MNIST%20CNN%20acc%2099%202.ipynb) (not optimized)
+  - ###### [RNN Text generation](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/RNN%20Text%20generation/RNN%20text%20generation.ipynb) (not optimized)
   - ###### [K-means image clustering](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/kmeans%20image%20clustering/kmeans%20image%20clustering%20so%20bad.ipynb) (so bad)
   - ###### [U-Net two bricks segmentation](https://github.com/No1n/some-programming/blob/master/python/machine%20learning/unet%20two%20bricks%20segmentation/unet%20two%20bricks%20segmentation.ipynb) (so bad)
     Test set prediction (accuracy ~65%)
